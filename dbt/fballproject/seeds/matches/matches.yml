@@ -1,0 +1,42 @@
+version: 2
+
+seeds:
+  - name: matches
+    config:
+      schema: matches
+      column_types:
+        match_id: integer
+        match_date: date
+        kick_off: time
+        home_score: integer
+        away_score: integer
+        match_week: integer
+        competition_competition_id: integer
+        competition_country_name: varchar
+        competition_competition_name: varchar
+        season_season_id: integer
+        season_season_name: integer
+        home_team_home_team_id: integer
+        home_team_home_team_name: varchar
+        home_team_home_team_gender: varchar
+        home_team_home_team_group: varchar
+        home_team_managers: json[]
+        home_team_country_id: integer
+        home_team_country_name: varchar
+        away_team_away_team_id: integer
+        away_team_away_team_name: varchar
+        away_team_away_team_gender: varchar
+        away_team_away_team_group: varchar
+        away_team_managers: json[]
+        away_team_country_id: integer
+        away_team_country_name: varchar
+        competition_stage_id: integer
+        competition_stage_name: varchar
+        stadium_id: integer
+        stadium_name: varchar
+        stadium_country_id: integer
+        stadium_country_name: varchar
+        referee_id: integer
+        referee_name: varchar
+        referee_country_id: integer
+        referee_country_name: varchar

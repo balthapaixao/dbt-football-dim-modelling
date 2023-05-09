@@ -1,0 +1,11 @@
+version: 2
+
+seeds:
+  - name: lineups
+    config:
+      schema: matches
+      column_types:
+        team_id: integer
+        team_name: varchar
+        lineup: json[]
+        match_id: integer

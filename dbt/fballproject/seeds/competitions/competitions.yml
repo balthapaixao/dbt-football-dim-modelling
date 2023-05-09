@@ -1,0 +1,15 @@
+version: 2
+
+seeds:
+  - name: competitions
+    config:
+      schema: competitions
+      column_types:
+        competition_id: integer
+        season_id: integer
+        country_name: varchar
+        competition_name: varchar
+        competition_gender: varchar
+        competition_youth: boolean
+        competition_international: boolean
+        season_name: varchar

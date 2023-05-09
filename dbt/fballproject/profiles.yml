@@ -1,0 +1,21 @@
+fballproject:
+  target: stg
+  outputs:
+    stg:
+      type: postgres
+      host: localhost
+      user: "{{ env_var('DBT_USER') }}"
+      password: "{{ env_var('DBT_PASSWORD') }}"
+      port: 5432
+      dbname: stg
+      schema: dbo
+      threads: 12
+    mart:
+      type: postgres
+      host: localhost
+      user: "{{ env_var('DBT_USER') }}"
+      password: "{{ env_var('DBT_PASSWORD') }}"
+      port: 5432
+      dbname: mart
+      schema: dbo
+      threads: 12

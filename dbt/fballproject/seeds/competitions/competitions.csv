@@ -1,0 +1,44 @@
+competition_id;season_id;country_name;competition_name;competition_gender;competition_youth;competition_international;season_name
+16;4;Europe;Champions League;male;False;False;2018/2019
+16;1;Europe;Champions League;male;False;False;2017/2018
+16;2;Europe;Champions League;male;False;False;2016/2017
+16;27;Europe;Champions League;male;False;False;2015/2016
+16;26;Europe;Champions League;male;False;False;2014/2015
+16;25;Europe;Champions League;male;False;False;2013/2014
+16;24;Europe;Champions League;male;False;False;2012/2013
+16;23;Europe;Champions League;male;False;False;2011/2012
+16;22;Europe;Champions League;male;False;False;2010/2011
+16;21;Europe;Champions League;male;False;False;2009/2010
+16;41;Europe;Champions League;male;False;False;2008/2009
+16;39;Europe;Champions League;male;False;False;2006/2007
+16;37;Europe;Champions League;male;False;False;2004/2005
+16;44;Europe;Champions League;male;False;False;2003/2004
+16;76;Europe;Champions League;male;False;False;1999/2000
+37;90;England;FA Women's Super League;female;False;False;2020/2021
+37;42;England;FA Women's Super League;female;False;False;2019/2020
+37;4;England;FA Women's Super League;female;False;False;2018/2019
+43;106;International;FIFA World Cup;male;False;True;2022
+43;3;International;FIFA World Cup;male;False;True;2018
+1238;108;India;Indian Super league;male;False;False;2021/2022
+11;90;Spain;La Liga;male;False;False;2020/2021
+11;42;Spain;La Liga;male;False;False;2019/2020
+11;4;Spain;La Liga;male;False;False;2018/2019
+11;1;Spain;La Liga;male;False;False;2017/2018
+11;2;Spain;La Liga;male;False;False;2016/2017
+11;27;Spain;La Liga;male;False;False;2015/2016
+11;26;Spain;La Liga;male;False;False;2014/2015
+11;25;Spain;La Liga;male;False;False;2013/2014
+11;24;Spain;La Liga;male;False;False;2012/2013
+11;23;Spain;La Liga;male;False;False;2011/2012
+11;22;Spain;La Liga;male;False;False;2010/2011
+11;21;Spain;La Liga;male;False;False;2009/2010
+11;41;Spain;La Liga;male;False;False;2008/2009
+11;40;Spain;La Liga;male;False;False;2007/2008
+11;39;Spain;La Liga;male;False;False;2006/2007
+11;38;Spain;La Liga;male;False;False;2005/2006
+11;37;Spain;La Liga;male;False;False;2004/2005
+49;3;United States of America;NWSL;female;False;False;2018
+2;44;England;Premier League;male;False;False;2003/2004
+55;43;Europe;UEFA Euro;male;False;True;2020
+53;106;Europe;UEFA Women's Euro;female;False;True;2022
+72;30;International;Women's World Cup;female;False;True;2019
